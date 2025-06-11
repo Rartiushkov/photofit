@@ -5,3 +5,4 @@ This project provides a simple Android application that analyzes food photos wit
 ## Building
 
 Open the project in Android Studio and run the `app` module on an emulator or device. Network requests require an API key which is included in the sample code for demonstration.
+

@@ -38,5 +38,6 @@ class MainActivity : AppCompatActivity() {
                 findViewById<TextView>(R.id.result_text).text = result
             }
         }
+
     }
 }
